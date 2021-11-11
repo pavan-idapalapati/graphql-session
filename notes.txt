@@ -1,0 +1,12 @@
+
+
+Scalar Types
+
+ID
+Int
+Float
+String
+Date
+
+
+Interfaces
